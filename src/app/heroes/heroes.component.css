@@ -50,7 +50,7 @@
 }
 
 button {
-  background-color: #eee;
+  background-color: black;
   border: none;
   padding: 5px 10px;
   border-radius: 4px;
@@ -60,7 +60,7 @@ button {
 }
 
 button:hover {
-  background-color: #cfd8dc;
+  background-color:#cfd8dc;
 }
 
 button.delete {

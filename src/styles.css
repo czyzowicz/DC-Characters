@@ -5,17 +5,17 @@ h1 {
     font-size: 250%;
   }
   h2, h3 {
-    color: #444;
+    color: white;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: lighter;
   }
   body {
     margin: 2em;
-    /* background-image: url("src\assets\images\dc-logo1.jpg"); */
+    background-image: url("src\assets\images\dc-logo4.jpg");
   }
   body, input[type="text"], 
   button {
-    color: #333;
+    color: white;
     font-family: Cambria, Georgia;
   }
   /* everywhere else */
