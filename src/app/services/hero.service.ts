@@ -84,7 +84,7 @@ deleteHero (hero: Hero | number): Observable<Hero> {
   );
 }
 
-/* GET heroes whose name contains search term */
+/* GET search heroes*/
 searchHeroes(term: string): Observable<Hero[]> {
   if (!term.trim()) {
     // if not search term, return empty hero array.
